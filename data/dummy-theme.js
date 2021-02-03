@@ -1,0 +1,68 @@
+import Theme from "../models/theme";
+
+export const THEMES = [
+  new Theme(
+    "t1",
+    "Red",
+    "#d9675b",
+    "#2b1412",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t2",
+    "Green",
+    "#59ca86",
+    "#11281a",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t3",
+    "Blue",
+    "#5dbfe4",
+    "#12262d",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t4",
+    "Yellow",
+    "#ffc73c",
+    "#33270c",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t5",
+    "Darker Blue",
+    "#4770c9",
+    "#0e1628",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t6",
+    "Green",
+    "#bbd76a",
+    "#70813f",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t7",
+    "Blue",
+    "#866AD7",
+    "#1a152b",
+    // "",
+    // "",
+  ),
+  new Theme(
+    "t8",
+    "Yellow",
+    "#00B1B8",
+    "#002324",
+    // "",
+    // "",
+  ),
+];
